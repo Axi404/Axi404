@@ -1,8 +1,27 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axi404&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)](https://github.com/anuraghazra/github-readme-stats)
+**About Me**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axi404&text_color=F9F871&title_color=FF6F91&bg_color=0,845EC2,0081CF,0089BA,008F7A)](https://github.com/anuraghazra/github-readme-stats)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Axi404)![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Axi404)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Coding Language**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Axi404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+
+**Web Browser**
+
+![](https://img.shields.io/badge/google%20chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)![](https://img.shields.io/badge/vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=FFFFFF)![](https://img.shields.io/badge/microsoft%20edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=FFFFFF)
+
+**Development Tools**
+
+![](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)![](https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=ffffff)![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff)![](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=ffffff)![](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=ffffff)![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)![](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+
+**Libraries / Frameworks**
+
+![](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff)![](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff)![](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)![](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff)![](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=ffffff)![](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=ffffff)![](https://img.shields.io/badge/hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=ffffff)
+
+**Operating System**
+
+![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)![](https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)
+
+**Academic**
+
+![](https://img.shields.io/badge/arxiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=ffffff)![](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=ffffff)
